@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="/img/header.jpeg" alt="Awesome">
+    <img src="/img/header.jpeg" alt="Awesome SAP">
 </div>
 
 # Awesome SAP ![Awesome](https://awesome.re/badge.svg)
@@ -93,6 +93,8 @@ The content is organized in the following categories:
 ## SAP BTP
 
 **[`^        back to top        ^`](#awesome-selfhosted)**
+
+[SAP CAP](https://cap.cloud.sap/docs/) - SAP Cloud Application Programming Model
 
 # LICENSE
 
