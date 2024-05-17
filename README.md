@@ -28,7 +28,7 @@ The content is organized in the following categories:
 
 ## SAP ABAP
 
-**[`^        back to top        ^`](#awesome-selfhosted)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 - [ABAP in Eclipse](https://tools.hana.ondemand.com/#abap) - ABAP Development Tools for SAP NetWeaver.
 - [ABAPGit](https://abapgit.org/) - Git client for ABAP.
@@ -42,7 +42,7 @@ The content is organized in the following categories:
 
 ## SAP Fiori
 
-**[`^        back to top        ^`](#awesome-selfhosted)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 **SAP Fiori Tools**
 
@@ -85,7 +85,7 @@ The content is organized in the following categories:
 
 ## SAP S/4HANA
 
-**[`^        back to top        ^`](#awesome-selfhosted)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 **SAP S/4HANA Cloud**
 
@@ -93,7 +93,7 @@ The content is organized in the following categories:
 
 ## SAP BTP
 
-**[`^        back to top        ^`](#awesome-selfhosted)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 [SAP CAP](https://cap.cloud.sap/docs/) - SAP Cloud Application Programming Model
 
