@@ -12,9 +12,9 @@ jobs:
       - uses: baileyjm02/markdown-to-pdf@v1
         with:
           input_dir: /
-          output_dir: pdfs
-          images_dir: img
-          image_import: ./pdf-images
+          output_dir: /pdfs
+          images_dir: /img
+          image_import: /img
           # Default is true, can set to false to only get PDF files
           build_html: true
       - uses: actions/upload-artifact@v3
