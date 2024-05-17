@@ -33,7 +33,12 @@ The content is organized in the following categories:
 - [ABAP in Eclipse](https://tools.hana.ondemand.com/#abap) - ABAP Development Tools for SAP NetWeaver.
 - [ABAPGit](https://abapgit.org/) - Git client for ABAP.
 
-**oData**
+**SAP oData**
+
+- [Transport System Aliases](https://community.sap.com/t5/technology-blogs-by-members/transport-odata-services-system-aliases/ba-p/13461447) - Transport ODATA Services – System Aliases
+- [Invalidate Metadata Cache for OData Services](https://community.sap.com/t5/technology-blogs-by-members/invalidate-metadata-cache-for-odata-services/ba-p/13446100) - Invalidate Metadata Cache for OData Services
+- [Cache Cleanup in SAP Netweaver Gateway](https://community.sap.com/t5/technology-blogs-by-members/cache-cleanup-in-sap-netweaver-gateway/ba-p/13362971)
+
 
 ## SAP Fiori
 
@@ -85,10 +90,6 @@ The content is organized in the following categories:
 **SAP S/4HANA Cloud**
 
 **SAP S/4HANA On-Premise**
-
-## SAP NetWeaver
-
-**[`^        back to top        ^`](#awesome-selfhosted)**
 
 ## SAP BTP
 
