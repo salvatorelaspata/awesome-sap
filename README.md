@@ -23,6 +23,7 @@ The content is organized in the following categories:
 - [SAP S/4HANA](#sap-s4hana)
 - [SAP NetWeaver](#sap-netweaver)
 - [SAP BTP](#sap-btp)
+- [SAP CPI](#sap-cpi)
 
 # Content
 
@@ -96,6 +97,10 @@ The content is organized in the following categories:
 **[`^        back to top        ^`](#table-of-contents)**
 
 [SAP CAP](https://cap.cloud.sap/docs/) - SAP Cloud Application Programming Model
+
+## SAP CPI
+
+**[`^        back to top        ^`](#table-of-contents)**
 
 # LICENSE
 
