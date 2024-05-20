@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="/img/header.jpeg" alt="Awesome SAP">
+    <img src="https://github.com/salvatorelaspata/awesome-sap/blob/main/img/header.jpeg" alt="Awesome SAP">
 </div>
 
 # Awesome SAP ![Awesome](https://awesome.re/badge.svg)
@@ -52,8 +52,8 @@ The content is organized in the following categories:
 - [Business Application Studio (BAS)](https://pages.community.sap.com/topics/business-application-studio) - SAP Business Application Studio is a cloud-based development environment for SAP Fiori and SAP Business Technology Platform applications.
 
 - [SAP Web IDE Personal Edition](https://help.sap.com/docs/help/825270ffffe74d9f988a0f0066ad59f0/5b8bca3147ee4dfd99be8aaf6bd4f421.html) - SAP Fiori tools is a set of plugins for Visual Studio Code, which helps developers to build SAP Fiori applications.
-  > ### Caution:  
-  > SAP Web IDE is no longer available via SAP Business Technology Platform trial accounts. Please consider SAP Business Application Studio as an alternative. See [App Development Using SAP Business Application Studio](app-development-using-sap-business-application-studio-6bbad66.md).
+> [!CAUTION] 
+> SAP Web IDE is no longer available via SAP Business Technology Platform trial accounts. Please consider SAP Business Application Studio as an alternative. See [App Development Using SAP Business Application Studio](app-development-using-sap-business-application-studio-6bbad66.md).
 
 - [Fiori Development with VSCode and NodeJS](https://community.sap.com/t5/technology-blogs-by-members/fiori-development-with-vscode-and-nodejs/ba-p/13559117) - Fiori Development with VSCode and NodeJS Step by Step Guide.
 
