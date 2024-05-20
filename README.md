@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://raw.githubusercontent.com/salvatorelaspata/awesome-sap/blob/main/img/header.jpeg" alt="Awesome SAP">
+    <img src="https://raw.githubusercontent.com/salvatorelaspata/awesome-sap/main/img/header.jpeg" alt="Awesome SAP">
 </div>
 
 # Awesome SAP ![Awesome](https://awesome.re/badge.svg)
