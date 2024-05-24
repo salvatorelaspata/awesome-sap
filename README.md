@@ -33,7 +33,6 @@ Standard documentation:
 - [SAP Community](https://community.sap.com/)
 - [SAP Learning](https://learning.sap.com/)
 - [SAP Microlearning](https://microlearning.opensap.com/)
-<!-- - [SAP Training and Certification Shop](https://training.sap.com/) -->
 - [SAP TechEd event](https://www.sap.com/events/teched.html)
 - [SAP Github samples](https://github.com/SAP-samples)
 - [SAP API Business Hub](https://api.sap.com/)
