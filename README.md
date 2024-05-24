@@ -27,6 +27,19 @@ The content is organized in the following categories:
 
 # Content
 
+Standard documentation:
+- [SAP Developer (developers.sap.com)](https://developers.sap.com/?original_fqdn=developer.sap.com)
+- [SAP Help Portal](https://help.sap.com/viewer/index)
+- [SAP Community](https://community.sap.com/)
+- [SAP Learning](https://learning.sap.com/)
+- [SAP Microlearning](https://microlearning.opensap.com/)
+<!-- - [SAP Training and Certification Shop](https://training.sap.com/) -->
+- [SAP TechEd event](https://www.sap.com/events/teched.html)
+- [SAP Github samples](https://github.com/SAP-samples)
+- [SAP API Business Hub](https://api.sap.com/)
+- [SAP Podcasts](https://podcast.opensap.info/)
+- [SAP Learning Hub (payment)](https://www.sap.com/training-certification/learning-hub.html)
+
 ## SAP ABAP
 
 **[`^        back to top        ^`](#table-of-contents)**
