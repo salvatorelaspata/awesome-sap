@@ -27,7 +27,7 @@ The content is organized in the following categories:
 
 # Content
 
-Standard documentation:
+SAP documentation:
 - [SAP Developer (developers.sap.com)](https://developers.sap.com/?original_fqdn=developer.sap.com)
 - [SAP Help Portal](https://help.sap.com/viewer/index)
 - [SAP Community](https://community.sap.com/)
@@ -56,6 +56,8 @@ Standard documentation:
 ## SAP Fiori
 
 **[`^        back to top        ^`](#table-of-contents)**
+
+[ Roadmap for SAP Fiori](https://storyboard.cfapps.eu10.hana.ondemand.com/#/story/23ec6f30-26b1-483b-9171-a53bd85bb2e2) - An interactive roadmap for SAP Fiori.
 
 **SAP Fiori Tools**
 
@@ -86,7 +88,11 @@ Standard documentation:
 
 **SAP Fiori Elements**
 
+- [Overview of SAP Fiori Elements](https://experience.sap.com/fiori-design-web/smart-templates/) - SAP Fiori elements is a framework for creating SAP Fiori applications using predefined templates based on OData services.
+
 **SAP UI5 Web Components**
+
+- [UI5 Web Component - Official Documentation](https://sap.github.io/ui5-webcomponents/) - SAP UI5 Web Components.
 
 **Testing**
 
