@@ -24,6 +24,7 @@ The content is organized in the following categories:
 - [SAP NetWeaver](#sap-netweaver)
 - [SAP BTP](#sap-btp)
 - [SAP CPI](#sap-cpi)
+- [SAP Connectors](#sap-connectors)
 
 # Content
 
@@ -119,6 +120,11 @@ SAP documentation:
 ## SAP CPI
 
 **[`^        back to top        ^`](#table-of-contents)**
+
+## SAP Connectors
+
+*SAP Connectors for various programming languages*
+- [ballerinax/sap](https://github.com/ballerina-platform/module-ballerinax-sap) - Official Ballerina connector for SAP S/4HANA.
 
 # LICENSE
 
