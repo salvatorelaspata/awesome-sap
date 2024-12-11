@@ -23,6 +23,7 @@ The content is organized in the following categories:
 - [SAP S/4HANA](#sap-s4hana)
 - [SAP NetWeaver](#sap-netweaver)
 - [SAP BTP](#sap-btp)
+- [SAP CPI](#sap-cpi)
 - [SAP Connectors](#sap-connectors)
 
 # Content
