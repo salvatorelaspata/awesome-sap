@@ -103,6 +103,8 @@ SAP documentation:
 
 - [Test Recorder](https://sapui5.hana.ondemand.com/sdk/#/topic/2535ef9272064cb6bd6b44e5402d531d) - Test Recorder is part of the SAPUI5 framework and is available in all browsers
 
+- [Playwright-Praman](https://praman.dev) - Playwright plugin for SAP UI5, Fiori & S/4HANA test automation with AI test generation, 199 typed control proxies, and OData V2/V4 support. ([github](https://github.com/nicholasgma/playwright-praman), [npm](https://www.npmjs.com/package/playwright-praman))
+
 ## SAP S/4HANA
 
 **[`^        back to top        ^`](#table-of-contents)**
