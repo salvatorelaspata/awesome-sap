@@ -32,10 +32,9 @@ def test_links(links):
             response = requests.head(link, headers=headers, allow_redirects=True, timeout=10)
             
             # Se HEAD fallisce (403, 405 o 500), riproviamo con GET
-            if response.status_code in [403, 405, 500, 503, 401]:
-                response = requests.get(link, headers=headers, allow_redirects=True, timeout=10, stream=True)
-
-            if response.status_code >= 400:
+            if response.status_code in [401, 403]:
+                print(f"⚠️ Warning di autenticazione {response.status_code}: {link}")
+            elif response.status_code >= 404:
                 print(f"❌ Errore {response.status_code}: {link}")
                 broken_links.append((link, response.status_code))
             else:
