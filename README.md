@@ -21,6 +21,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
 - [SAP ABAP](#sap-abap)
 - [SAP Fiori & UI5](#sap-fiori--ui5)
 - [SAP S/4HANA](#sap-s4hana)
+- [Clean Core & Extensibility](#clean-core--extensibility)
 - [SAP BTP](#sap-btp)
 - [SAP CPI / Integration](#sap-cpi--integration)
 - [SAP Connectors](#sap-connectors)
@@ -62,10 +63,10 @@ General documentation, learning, and community entry points for the SAP ecosyste
 
 ### ABAP RESTful Application Programming Model (RAP)
 
-- [ABAP RESTful Application Programming Model – Help Portal](https://help.sap.com/docs/ABAP_PLATFORM_NEW/fc4c71aa50014fd1b43721701471913d/289477a81eec4d4e84c0302fb6835035.html) – Official RAP documentation and developer guide.
-- [ABAP RESTful Application Programming Model – SAP Community Topic Page](https://pages.community.sap.com/topics/abap/rap) – Blogs, Q&A, and learning resources around RAP.
-- [ABAP Cloud & RAP Overview (PDF)](https://blog.asug.com/hubfs/Chapter%20Events/ABAP%20Cloud%20-%20RAP%20-%20S4HANA%20Extensibility.pdf) – Slide deck introducing ABAP Cloud and RAP, including extensibility and roadmap.
-- [SAP Samples – RAP-related repositories](https://github.com/SAP-samples) – Search for RAP sample repos (e.g. openSAP course content and flight reference scenarios).
+- [ABAP RESTful Application Programming Model – Help Portal](https://help.sap.com/docs/ABAP_PLATFORM_NEW/fc4c71aa50014fd1b43721701471913d/289477a81eec4d4e84c0302fb6835035.html) – Official RAP documentation and developer guide.[web:31]
+- [ABAP RESTful Application Programming Model – SAP Community Topic Page](https://pages.community.sap.com/topics/abap/rap) – Blogs, Q&A, and learning resources around RAP.[web:39]
+- [ABAP Cloud & RAP Overview (PDF)](https://blog.asug.com/hubfs/Chapter%20Events/ABAP%20Cloud%20-%20RAP%20-%20S4HANA%20Extensibility.pdf) – Slide deck introducing ABAP Cloud and RAP, including extensibility and roadmap.[web:42]
+- [ABAP Extensibility Guide – Clean Core for SAP S/4HANA Cloud](https://community.sap.com/t5/technology-blog-posts-by-sap/abap-extensibility-guide-clean-core-for-sap-s-4hana-cloud-august-2025/ba-p/14009741) – Official blog explaining ABAP Cloud-based extensibility and its evolution with clean core levels.[web:48]
 
 > Contributions welcome: CDS views, RAP tutorials, clean core patterns, testability, and best practices.
 
@@ -84,7 +85,7 @@ General documentation, learning, and community entry points for the SAP ecosyste
 
 - [UI5 Tooling](https://sap.github.io/ui5-tooling/) – CLI and libraries to develop, build, and deploy SAPUI5/OpenUI5 applications. ([GitHub](https://github.com/SAP/ui5-tooling))
 - [SAP Business Application Studio (BAS)](https://pages.community.sap.com/topics/business-application-studio) – Cloud-based development environment for SAP Fiori and SAP BTP applications.
-- [SAP Fiori Tools](https://help.sap.com/docs/SAP_FIORI_tools/17d50220bcd848aa854c9c182d65b699/2d8b1cb11f6541e5ab16f05461c64201.html) – Extensions for VS Code and SAP Business Application Studio to accelerate Fiori app development.
+- [SAP Fiori Tools](https://help.sap.com/docs/SAP_FIORI_tools/17d50220bcd848aa854c9c182d65b699/2d8b1cb11f6541e5ab16f05461c64201.html) – Extensions for VS Code and SAP Business Application Studio to accelerate Fiori app development.[web:13]
 - [SAP Web IDE Personal Edition](https://help.sap.com/docs/help/825270ffffe74d9f988a0f0066ad59f0/5b8bca3147ee4dfd99be8aaf6bd4f421.html) – Legacy local edition of SAP Web IDE.
 
   > SAP Web IDE is deprecated on SAP BTP; consider SAP Business Application Studio and SAP Fiori tools instead.
@@ -131,6 +132,37 @@ _(Contributions welcome: installation and operations guides, simplification item
 
 ---
 
+## Clean Core & Extensibility
+
+**[`^ back to top ^`](#table-of-contents)**
+
+Resources focused on keeping the digital core clean while building upgrade-stable, cloud-compliant extensions using ABAP Cloud, RAP, CAP, and SAP BTP.
+
+### Concepts & Whitepapers
+
+- [Introducing the Clean Core Approach – SAP Learning](https://learning.sap.com/learning-journeys/developing-with-sap-integration-suite/explaining-the-clean-core-approach) – Overview of clean core principles, pillars, and the role of SAP Integration Suite.[web:47]
+- [Exploring Clean Core Extensibility Best Practices](https://learning.sap.com/courses/practicing-clean-core-extensibility-for-sap-s-4hana-cloud/explaining-extensibility-model-best-practices) – Clean core extensibility model with levels A–D to classify extension quality and technical debt.[web:45]
+- [Clean Core Data White Paper – SAP](https://www.sap.com/documents/2025/11/cc60c7be-2c7f-0010-bca6-c68f7e60039b.html) – Guidance on data aspects of clean core when moving to SAP S/4HANA Cloud Private Edition.[web:52]
+- [SAP S/4HANA Clean Core Extensibility Guide (PDF)](https://www.scribd.com/document/948735181/Clean-core-extensibility-for-SAP-S-4HANA-Cloud) – Whitepaper describing clean core extensibility levels, upgrade safety, and custom code strategy.[web:53]
+- [SAP S/4HANA Extensibility Options for Clean Core Journey](https://community.sap.com/t5/enterprise-resource-planning-blog-posts-by-sap/sap-s-4hana-extensibility-options-for-clean-core-journey/ba-p/14014558) – Blog outlining clean core pillars and how to choose extensibility options.[web:56]
+- [SAP S/4HANA Extensibility: An Overview](https://sbpdigital.com/s4hana-extensibility/) – Overview of extensibility options, clean core paradigm, and benefits of an upgrade-stable model.[web:51]
+
+### ABAP Cloud, RAP & Developer Extensibility
+
+- [ABAP Cloud & ABAP RESTful Application Programming Model (RAP) – ASUG PDF](https://blog.asug.com/hubfs/Chapter%20Events/ABAP%20Cloud%20-%20RAP%20-%20S4HANA%20Extensibility.pdf) – Deep dive into RAP, ABAP Cloud, on-stack vs side-by-side extensibility.[web:42]
+- [ABAP Extensibility Guide – Clean Core for SAP S/4HANA Cloud](https://community.sap.com/t5/technology-blog-posts-by-sap/abap-extensibility-guide-clean-core-for-sap-s-4hana-cloud-august-2025/ba-p/14009741) – Updated ABAP extensibility guide aligned with clean core levels.[web:48]
+- [RAP On-Stack Developer Extensibility](https://community.sap.com/t5/technology-blog-posts-by-members/rap-on-stack-developer-extensibility/ba-p/14017859) – How to extend standard RAP business objects in S/4HANA and BTP ABAP Environment.[web:54]
+
+### Integration & Side-by-Side Extensions
+
+- [What is SAP Integration Suite?](https://help.sap.com/docs/integration-suite/sap-integration-suite/what-is-sap-integration-suite) – Integration Suite as a key enabler of clean core, connecting processes, data, and apps.[web:40]
+- [SAP Integration Suite in the Clean Core Approach – SAP Learning](https://learning.sap.com/learning-journeys/developing-with-sap-integration-suite/explaining-the-clean-core-approach) – How clean integration supports clean core with API-first and event-driven patterns.[web:47]
+- [How to Build Side-by-Side Extensions for SAP S/4HANA Public Cloud](https://community.sap.com/t5/technology-blog-posts-by-sap/how-to-build-side-by-side-extensions-for-sap-s-4hana-public-cloud-with-sap-btp-abap-environment/ba-p/14011065) – Practical guide to side-by-side extensions with SAP BTP ABAP Environment and S/4HANA cloud trial.[web:49]
+
+> Contributions welcome: opinionated reference architectures combining RAP (on-stack), CAP (side-by-side), Integration Suite, and event-driven patterns for a clean core landscape.
+
+---
+
 ## SAP BTP
 
 **[`^ back to top ^`](#table-of-contents)**
@@ -138,13 +170,13 @@ _(Contributions welcome: installation and operations guides, simplification item
 ### Programming Models & CAP
 
 - [SAP Cloud Application Programming Model (CAP)](https://cap.cloud.sap/docs/) – Official CAP documentation (Node.js and Java).
-- [Programming Models – SAP Help Portal](https://help.sap.com/docs/btp/sap-business-technology-platform/cloud-application-programming-model) – Help Portal entry for CAP and related programming models.
+- [Programming Models – SAP Help Portal](https://help.sap.com/docs/btp/sap-business-technology-platform/cloud-application-programming-model) – Help Portal entry for CAP and related programming models.[web:22]
 
 ### CAP Samples & Demo Apps
 
-- [SAP BTP CAP Demo Use Cases](https://github.com/SAP-samples/btp-cap-demo-usecases) – Demo applications showcasing multiple CAP features together with SAP BTP services.
-- [CAP Samples for Java – Bookshop](https://github.com/SAP-samples/cloud-cap-samples-java) – Sample CAP application in Java (bookshop), including H2/HANA persistence, Fiori UI, and deployment options.
-- [CAP Sample Repositories (capire)](https://github.com/capire) – Central GitHub org for CAP samples and example projects.
+- [SAP BTP CAP Demo Use Cases](https://github.com/SAP-samples/btp-cap-demo-usecases) – Demo applications showcasing multiple CAP features together with SAP BTP services.[web:33]
+- [CAP Samples for Java – Bookshop](https://github.com/SAP-samples/cloud-cap-samples-java) – Sample CAP application in Java (bookshop), including H2/HANA persistence, Fiori UI, and deployment options.[web:38]
+- [CAP Sample Repositories (capire)](https://github.com/capire) – Central GitHub org for CAP samples and example projects.[web:44]
 
 > Contributions welcome: multitenancy, XSUAA, destinations, eventing, Kyma, Cloud Foundry deployment examples, GenAI integration, etc.
 
@@ -156,14 +188,13 @@ _(Contributions welcome: installation and operations guides, simplification item
 
 ### SAP Integration Suite
 
-- [What is SAP Integration Suite?](https://help.sap.com/docs/integration-suite/sap-integration-suite/what-is-sap-integration-suite) – Overview of Integration Suite capabilities (Cloud Integration, API Management, Event Mesh, Open Connectors, etc.).
-- [Integration Suite – SAP Discovery Center](https://discovery-center.cloud.sap/serviceCatalog/integration-suite) – Service description, use cases, missions, and architecture blueprints.
+- [What is SAP Integration Suite?](https://help.sap.com/docs/integration-suite/sap-integration-suite/what-is-sap-integration-suite) – Overview of Integration Suite capabilities (Cloud Integration, API Management, Event Mesh, Open Connectors, etc.).[web:40]
+- [Integration Suite – SAP Discovery Center](https://discovery-center.cloud.sap/serviceCatalog/integration-suite) – Service description, use cases, missions, and architecture blueprints.[web:43]
 
 ### SAP Cloud Integration (CPI)
 
-- [SAP Cloud Integration – Help Portal](https://help.sap.com/docs/cloud-integration/sap-cloud-integration/sap-cloud-integration) – Official documentation for SAP Cloud Integration, including connectivity, security, and scenario configuration.
-- [What Is SAP Cloud Integration?](https://help.sap.com/docs/cloud-integration/sap-cloud-integration/what-is-sap-cloud-integration) – Conceptual overview and benefits of Cloud Integration.
-- _(Optional additional links: blogs, patterns, and best practices for iFlows, error handling, adapters, mapping, and hybrid connectivity.)_
+- [SAP Cloud Integration – Help Portal](https://help.sap.com/docs/cloud-integration/sap-cloud-integration/sap-cloud-integration) – Official documentation for SAP Cloud Integration, including connectivity, security, and scenario configuration.[web:32]
+- [What Is SAP Cloud Integration?](https://help.sap.com/docs/cloud-integration/sap-cloud-integration/what-is-sap-cloud-integration) – Conceptual overview and benefits of Cloud Integration.[web:35]
 
 > Contributions welcome: ready-to-use iFlow samples, CPI Groovy/JavaScript script collections, integration patterns (saga, pub/sub, bulk load), and monitoring/troubleshooting guides.
 

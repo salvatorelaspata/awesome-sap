@@ -1,0 +1,25 @@
+name: Link Checker on Push
+
+# Il workflow si attiva solo al comando 'git push'
+on: 
+  push:
+    branches: [ "main", "master" ] # Specifica i tuoi rami principali
+
+jobs:
+  link-test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run link checker script
+        run: python test_links.py
