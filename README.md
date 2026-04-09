@@ -83,7 +83,7 @@ General documentation, learning, and community entry points for the SAP ecosyste
 
 ### Fiori / UI5 Development Tools
 
-- [UI5 Tooling](https://sap.github.io/ui5-tooling/) – CLI and libraries to develop, build, and deploy SAPUI5/OpenUI5 applications. ([GitHub](https://github.com/SAP/ui5-tooling))
+- [UI5 Tooling](https://ui5.github.io/cli/stable/) – CLI and libraries to develop, build, and deploy SAPUI5/OpenUI5 applications. ([GitHub](https://github.com/UI5/cli))
 - [SAP Business Application Studio (BAS)](https://pages.community.sap.com/topics/business-application-studio) – Cloud-based development environment for SAP Fiori and SAP BTP applications.
 - [SAP Fiori Tools](https://help.sap.com/docs/SAP_FIORI_tools/17d50220bcd848aa854c9c182d65b699/2d8b1cb11f6541e5ab16f05461c64201.html) – Extensions for VS Code and SAP Business Application Studio to accelerate Fiori app development.[web:13]
 - [SAP Web IDE Personal Edition](https://help.sap.com/docs/help/825270ffffe74d9f988a0f0066ad59f0/5b8bca3147ee4dfd99be8aaf6bd4f421.html) – Legacy local edition of SAP Web IDE.
@@ -103,7 +103,7 @@ General documentation, learning, and community entry points for the SAP ecosyste
 
 ### SAP UI5 Web Components
 
-- [UI5 Web Components – Official Documentation](https://sap.github.io/ui5-webcomponents/) – Web components for enterprise-grade UI based on SAP Fiori.
+- [UI5 Web Components – Official Documentation](https://ui5.github.io/webcomponents/) – Web components for enterprise-grade UI based on SAP Fiori.
 
 ### Fiori Launchpad
 
@@ -111,7 +111,7 @@ General documentation, learning, and community entry points for the SAP ecosyste
 
 ### Testing
 
-- [OPA5](https://sap.github.io/ui5-tooling/pages/Opa5/) – JavaScript testing framework for UI5 integration tests.
+- [OPA5](https://help.sap.com/docs/ABAP_PLATFORM_NEW/468a97775123488ab3345a0c48cadd8f/22f175e7084247bc896c15280af9d1dc.html?locale=en-US) – JavaScript testing framework for UI5 integration tests.
 - [WDI5](https://ui5-community.github.io/wdi5/#/) – UI5 testing framework with WebdriverIO integration.
 - [Test Recorder](https://sapui5.hana.ondemand.com/sdk/#/topic/2535ef9272064cb6bd6b44e5402d531d) – Built-in SAPUI5 test recorder available in all supported browsers.
 - [Playwright-Praman](https://praman.dev) – Playwright plugin for SAP UI5, Fiori, and S/4HANA test automation with AI test generation, typed control proxies, and OData V2/V4 support. ([GitHub](https://github.com/nicholasgma/playwright-praman), [npm](https://www.npmjs.com/package/playwright-praman))
