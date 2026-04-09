@@ -114,7 +114,7 @@ General documentation, learning, and community entry points for the SAP ecosyste
 - [OPA5](https://help.sap.com/docs/ABAP_PLATFORM_NEW/468a97775123488ab3345a0c48cadd8f/22f175e7084247bc896c15280af9d1dc.html?locale=en-US) – JavaScript testing framework for UI5 integration tests.
 - [WDI5](https://ui5-community.github.io/wdi5/#/) – UI5 testing framework with WebdriverIO integration.
 - [Test Recorder](https://sapui5.hana.ondemand.com/sdk/#/topic/2535ef9272064cb6bd6b44e5402d531d) – Built-in SAPUI5 test recorder available in all supported browsers.
-- [Playwright-Praman](https://praman.dev) – Playwright plugin for SAP UI5, Fiori, and S/4HANA test automation with AI test generation, typed control proxies, and OData V2/V4 support. ([GitHub](https://github.com/nicholasgma/playwright-praman), [npm](https://www.npmjs.com/package/playwright-praman))
+- [Playwright-Praman](https://praman.dev) – Playwright plugin for SAP UI5, Fiori, and S/4HANA test automation with AI test generation, typed control proxies, and OData V2/V4 support. ([GitHub](https://github.com/mrkanitkar/playwright-praman), [npm](https://www.npmjs.com/package/playwright-praman))
 
 ---
 
@@ -141,7 +141,7 @@ Resources focused on keeping the digital core clean while building upgrade-stabl
 ### Concepts & Whitepapers
 
 - [Introducing the Clean Core Approach – SAP Learning](https://learning.sap.com/learning-journeys/developing-with-sap-integration-suite/explaining-the-clean-core-approach) – Overview of clean core principles, pillars, and the role of SAP Integration Suite.[web:47]
-- [Exploring Clean Core Extensibility Best Practices](https://learning.sap.com/courses/practicing-clean-core-extensibility-for-sap-s-4hana-cloud/explaining-extensibility-model-best-practices) – Clean core extensibility model with levels A–D to classify extension quality and technical debt.[web:45]
+- [Exploring Clean Core Fundamentals](https://learning.sap.com/courses/introducing-the-rise-with-sap-methodology-for-sap-partners-and-customers/exploring-clean-core-fundamentals) – Clean core extensibility model with levels A–D to classify extension quality and technical debt.[web:45]
 - [Clean Core Data White Paper – SAP](https://www.sap.com/documents/2025/11/cc60c7be-2c7f-0010-bca6-c68f7e60039b.html) – Guidance on data aspects of clean core when moving to SAP S/4HANA Cloud Private Edition.[web:52]
 - [SAP S/4HANA Clean Core Extensibility Guide (PDF)](https://www.scribd.com/document/948735181/Clean-core-extensibility-for-SAP-S-4HANA-Cloud) – Whitepaper describing clean core extensibility levels, upgrade safety, and custom code strategy.[web:53]
 - [SAP S/4HANA Extensibility Options for Clean Core Journey](https://community.sap.com/t5/enterprise-resource-planning-blog-posts-by-sap/sap-s-4hana-extensibility-options-for-clean-core-journey/ba-p/14014558) – Blog outlining clean core pillars and how to choose extensibility options.[web:56]

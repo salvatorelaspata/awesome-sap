@@ -2,19 +2,17 @@ import re
 import requests
 
 def find_links(file_path):
-    # Questa regex cattura tutto ciò che inizia con http/https 
-    # ma si ferma appena incontra uno spazio, una parentesi tonda chiusa, 
-    # una quadra chiusa o una virgola seguita da spazio.
-    url_pattern = r'https?://[^\s)\]]+'
+    # Si ferma se trova: spazi, virgolette (singole/doppie), 
+    # parentesi (tonde/quadre/angolari)
+    url_pattern = r'https?://[^\s"\'<>)\]]+'
     
     with open(file_path, 'r', encoding='utf-8') as file:
         content = file.read()
         links = re.findall(url_pattern, content)
         
-        # Pulizia extra per casi limite (rimuove punteggiatura finale rimasta)
+        # Pulizia per punteggiatura rimasta attaccata alla fine (es. virgole o punti)
         cleaned_links = [link.rstrip('.,') for link in links]
         
-        # Elimina i duplicati e restituisce la lista
         return list(set(cleaned_links))
 
 def test_links(links):
