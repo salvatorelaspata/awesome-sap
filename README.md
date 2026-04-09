@@ -60,7 +60,14 @@ General documentation, learning, and community entry points for the SAP ecosyste
 - [Invalidate Metadata Cache for OData Services](https://community.sap.com/t5/technology-blogs-by-members/invalidate-metadata-cache-for-odata-services/ba-p/13446100)
 - [Cache Cleanup in SAP NetWeaver Gateway](https://community.sap.com/t5/technology-blogs-by-members/cache-cleanup-in-sap-netweaver-gateway/ba-p/13362971)
 
-> More ABAP, RAP, CDS, and Gateway resources welcome via pull requests.
+### ABAP RESTful Application Programming Model (RAP)
+
+- [ABAP RESTful Application Programming Model – Help Portal](https://help.sap.com/docs/ABAP_PLATFORM_NEW/fc4c71aa50014fd1b43721701471913d/289477a81eec4d4e84c0302fb6835035.html) – Official RAP documentation and developer guide.
+- [ABAP RESTful Application Programming Model – SAP Community Topic Page](https://pages.community.sap.com/topics/abap/rap) – Blogs, Q&A, and learning resources around RAP.
+- [ABAP Cloud & RAP Overview (PDF)](https://blog.asug.com/hubfs/Chapter%20Events/ABAP%20Cloud%20-%20RAP%20-%20S4HANA%20Extensibility.pdf) – Slide deck introducing ABAP Cloud and RAP, including extensibility and roadmap.
+- [SAP Samples – RAP-related repositories](https://github.com/SAP-samples) – Search for RAP sample repos (e.g. openSAP course content and flight reference scenarios).
+
+> Contributions welcome: CDS views, RAP tutorials, clean core patterns, testability, and best practices.
 
 ---
 
@@ -133,7 +140,13 @@ _(Contributions welcome: installation and operations guides, simplification item
 - [SAP Cloud Application Programming Model (CAP)](https://cap.cloud.sap/docs/) – Official CAP documentation (Node.js and Java).
 - [Programming Models – SAP Help Portal](https://help.sap.com/docs/btp/sap-business-technology-platform/cloud-application-programming-model) – Help Portal entry for CAP and related programming models.
 
-_(Contributions welcome: Kyma, Cloud Foundry, destinations, XSUAA, multitenancy, eventing, etc.)_
+### CAP Samples & Demo Apps
+
+- [SAP BTP CAP Demo Use Cases](https://github.com/SAP-samples/btp-cap-demo-usecases) – Demo applications showcasing multiple CAP features together with SAP BTP services.
+- [CAP Samples for Java – Bookshop](https://github.com/SAP-samples/cloud-cap-samples-java) – Sample CAP application in Java (bookshop), including H2/HANA persistence, Fiori UI, and deployment options.
+- [CAP Sample Repositories (capire)](https://github.com/capire) – Central GitHub org for CAP samples and example projects.
+
+> Contributions welcome: multitenancy, XSUAA, destinations, eventing, Kyma, Cloud Foundry deployment examples, GenAI integration, etc.
 
 ---
 
@@ -141,7 +154,18 @@ _(Contributions welcome: Kyma, Cloud Foundry, destinations, XSUAA, multitenancy,
 
 **[`^ back to top ^`](#table-of-contents)**
 
-_(Contributions welcome: SAP Integration Suite, Cloud Integration (CPI), API Management, Open Connectors, patterns and best practices.)_
+### SAP Integration Suite
+
+- [What is SAP Integration Suite?](https://help.sap.com/docs/integration-suite/sap-integration-suite/what-is-sap-integration-suite) – Overview of Integration Suite capabilities (Cloud Integration, API Management, Event Mesh, Open Connectors, etc.).
+- [Integration Suite – SAP Discovery Center](https://discovery-center.cloud.sap/serviceCatalog/integration-suite) – Service description, use cases, missions, and architecture blueprints.
+
+### SAP Cloud Integration (CPI)
+
+- [SAP Cloud Integration – Help Portal](https://help.sap.com/docs/cloud-integration/sap-cloud-integration/sap-cloud-integration) – Official documentation for SAP Cloud Integration, including connectivity, security, and scenario configuration.
+- [What Is SAP Cloud Integration?](https://help.sap.com/docs/cloud-integration/sap-cloud-integration/what-is-sap-cloud-integration) – Conceptual overview and benefits of Cloud Integration.
+- _(Optional additional links: blogs, patterns, and best practices for iFlows, error handling, adapters, mapping, and hybrid connectivity.)_
+
+> Contributions welcome: ready-to-use iFlow samples, CPI Groovy/JavaScript script collections, integration patterns (saga, pub/sub, bulk load), and monitoring/troubleshooting guides.
 
 ---
 
