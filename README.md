@@ -54,6 +54,7 @@ General documentation, learning, and community entry points for the SAP ecosyste
 
 - [ABAP in Eclipse (ADT)](https://tools.hana.ondemand.com/#abap) – ABAP Development Tools for modern ABAP development in Eclipse.
 - [abapGit](https://abapgit.org/) – Git client for ABAP to manage ABAP code in Git repositories.
+- [SAP Tools](https://sapdevtools.com) – Free browser-based utilities for ABAP developers: OData filter builder, CDS view generator, ABAP code formatter, RAP quick reference, and 25+ more.
 
 ### OData / SAP Gateway
 
