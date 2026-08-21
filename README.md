@@ -54,6 +54,7 @@ General documentation, learning, and community entry points for the SAP ecosyste
 
 - [ABAP in Eclipse (ADT)](https://tools.hana.ondemand.com/#abap) – ABAP Development Tools for modern ABAP development in Eclipse.
 - [abapGit](https://abapgit.org/) – Git client for ABAP to manage ABAP code in Git repositories.
+- [Oricode AI](https://marketplace.visualstudio.com/items?itemName=OricodeAI.oricode-ai) – AI-native SAP development for VS Code and Eclipse ADT. Builds full RAP stacks (ABAP + CDS + BDEF + service binding + OData V4) from natural-language prompts, then scaffolds Vue/React/Fiori frontends against the resulting service. Works on ABAP Cloud, S/4HANA on-prem, and NW ABAP.
 
 ### OData / SAP Gateway
 
