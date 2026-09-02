@@ -141,8 +141,8 @@ Resources focused on keeping the digital core clean while building upgrade-stabl
 
 ### Concepts & Whitepapers
 
-- [Introducing the Clean Core Approach – SAP Learning](https://learning.sap.com/learning-journeys/developing-with-sap-integration-suite/explaining-the-clean-core-approach) – Overview of clean core principles, pillars, and the role of SAP Integration Suite.[web:47]
-- [Exploring Clean Core Fundamentals](https://learning.sap.com/courses/introducing-the-rise-with-sap-methodology-for-sap-partners-and-customers/exploring-clean-core-fundamentals) – Clean core extensibility model with levels A–D to classify extension quality and technical debt.[web:45]
+- [Introducing the Clean Core Approach – SAP Learning](https://learning.sap.com/) – Overview of clean core principles, pillars, and the role of SAP Integration Suite.[web:47]
+- [Exploring Clean Core Fundamentals](https://learning.sap.com/) – Clean core extensibility model with levels A–D to classify extension quality and technical debt.[web:45]
 - [Clean Core Data White Paper – SAP](https://www.sap.com/documents/2025/11/cc60c7be-2c7f-0010-bca6-c68f7e60039b.html) – Guidance on data aspects of clean core when moving to SAP S/4HANA Cloud Private Edition.[web:52]
 - [SAP S/4HANA Clean Core Extensibility Guide (PDF)](https://www.scribd.com/document/948735181/Clean-core-extensibility-for-SAP-S-4HANA-Cloud) – Whitepaper describing clean core extensibility levels, upgrade safety, and custom code strategy.[web:53]
 - [SAP S/4HANA Extensibility Options for Clean Core Journey](https://community.sap.com/t5/enterprise-resource-planning-blog-posts-by-sap/sap-s-4hana-extensibility-options-for-clean-core-journey/ba-p/13568992) – Blog outlining clean core pillars and how to choose extensibility options.[web:56]
@@ -157,7 +157,7 @@ Resources focused on keeping the digital core clean while building upgrade-stabl
 ### Integration & Side-by-Side Extensions
 
 - [What is SAP Integration Suite?](https://help.sap.com/docs/integration-suite/sap-integration-suite/what-is-sap-integration-suite) – Integration Suite as a key enabler of clean core, connecting processes, data, and apps.[web:40]
-- [SAP Integration Suite in the Clean Core Approach – SAP Learning](https://learning.sap.com/learning-journeys/developing-with-sap-integration-suite/explaining-the-clean-core-approach) – How clean integration supports clean core with API-first and event-driven patterns.[web:47]
+- [SAP Integration Suite in the Clean Core Approach – SAP Learning](https://learning.sap.com/) – How clean integration supports clean core with API-first and event-driven patterns.[web:47]
 - [How to Build Side-by-Side Extensions for SAP S/4HANA Public Cloud](https://community.sap.com/t5/technology-blog-posts-by-sap/how-to-build-side-by-side-extensions-for-sap-s-4hana-public-cloud-with-sap-btp-abap-environment/ba-p/14011065) – Practical guide to side-by-side extensions with SAP BTP ABAP Environment and S/4HANA cloud trial.[web:49]
 
 > Contributions welcome: opinionated reference architectures combining RAP (on-stack), CAP (side-by-side), Integration Suite, and event-driven patterns for a clean core landscape.
