@@ -43,6 +43,7 @@ General documentation, learning, and community entry points for the SAP ecosyste
 - [SAP Business Accelerator Hub (API Business Hub)](https://api.sap.com/) – SAP and partner APIs, integration content, and events.
 - [SAP Podcasts](https://podcast.opensap.info/) – Podcasts on SAP technologies and strategy.
 - [SAP Learning Hub (paid)](https://www.sap.com/training-certification/learning-hub.html) – Subscription-based learning platform for in-depth training.
+- [The Work Gym SAP course](https://theworkgym.com/sap/) – Independent browser practice for FICO postings, purchasing and period-end tasks in a modeled workspace; not SAP software and not affiliated with SAP. First unit free.
 
 ---
 
